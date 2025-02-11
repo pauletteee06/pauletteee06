@@ -10,7 +10,7 @@ I am a freelance computer engineering student. I am expanding my knowledge in bo
     - JavaScript
     - React js
 - Outside of technology, 📖 I love to read, 🎵 listen to music, and 🌴 travel to explore.
-- 📫 Reach out to me at: <a "prebelom@gmail.com"</a>
+- 📫 Reach out to me at: "prebelom@gmail.com"</a>
 
 <h2> My Skills Include </h2>
 
